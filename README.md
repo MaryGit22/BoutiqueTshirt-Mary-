@@ -7,4 +7,4 @@ Lancer Apache et SQL dans xampp control
 
 Ouvrir localhost/phpAdmin par cliquer Admin à côté de Start
 
-Ecrire le fichier Boutique_PHP
+Ecrire le fichier Boutique_PHP.
