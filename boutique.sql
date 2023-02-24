@@ -42,7 +42,7 @@ CREATE TABLE `articles` (
 
 INSERT INTO `articles` (`id`, `nom`, `prix`, `description`, `image`, `taille`) VALUES
 (8, 'T - SHIRT', 15, 'Super t-shirt', '1602202316531763ee516d24834jaune.jpg', 'm'),
-(9, 'T - SHIRT 2', 13.9, 'Jolie t-shirt', '1602202317001063ee530a9feb6polo.jpg', 'l');
+(9, 'T - SHIRT 2', 16, 'Jolie t-shirt', '1602202317001063ee530a9feb6polo.jpg', 'l');
 
 --
 -- Index pour les tables déchargées
